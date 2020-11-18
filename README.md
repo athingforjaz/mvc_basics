@@ -1,12 +1,16 @@
 # MVC Super-Duper Basics
 
-Using (but not `using`) this tutorial: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-5.0
+Using (but not `using`) these tutorials: 
+- https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-5.0
+- https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-5.0
 
 Anything in (()) should be named by you. DO NOT NAME YOUR PROJECT THE SAME AS ANY OF YOUR MODELS. 
 
 Days we talked about this in class (for the Academy Twitch stream): 
 - 11/17/2020 ("PangketManster" day - whole project setup)
 - 11/18/2020 (John talks specifically about DB setups and linking)
+
+For linking two databases: https://github.com/uugengiven/Session11MvcTwotables
 
 ## Create a project and open it in VS Code
 ```
